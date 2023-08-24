@@ -107,6 +107,7 @@ const {courseInstructor: instructor} = course
 // console.log(courseInstructor);
 console.log(instructor);
 
+//JSON structure
 // {
 //     "name": "hitesh",
 //     "coursename": "js in hindi",
