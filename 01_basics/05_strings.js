@@ -16,4 +16,9 @@ const anotherString = gameName.slice(-1,4)
 // console.log(anotherString);
 
 const newStr1 = "     taani"
+// console.log(newStr1.trim());
 
+const url = "https://taani.com/taani%20sharma"
+// console.log(url.replace('%20','-'));
+// console.log(url.includes('ani'));
+console.log(gameName.split('-'));
